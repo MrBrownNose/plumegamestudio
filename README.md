@@ -2,7 +2,7 @@
 
 Static site for [plumegamestudio.com](https://plumegamestudio.com).
 
-Upload the files in this folder to `public_html`. `index.html` is the homepage.
+Upload the files in this folder to `public_html`. `index.html` is the homepage. The host must run PHP so the support form can send mail.
 
 | Page | URL |
 |---|---|
@@ -11,5 +11,3 @@ Upload the files in this folder to `public_html`. `index.html` is the homepage.
 | Privacy | `https://plumegamestudio.com/privacy.html` |
 | Terms | `https://plumegamestudio.com/terms.html` |
 | Disclaimer | `https://plumegamestudio.com/disclaimer.html` |
-
-Support mail goes to info@theplumegroup.com.
